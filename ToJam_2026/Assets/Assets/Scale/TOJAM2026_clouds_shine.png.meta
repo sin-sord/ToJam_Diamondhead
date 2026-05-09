@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2dbc9ea5464f04d49bfee28457a372c0
+guid: eaaed972761c667409bafbfaa5f28793
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4184593665665289942
-    second: TOJAM2026_clouds_top_0
+      213: -2961380163190255406
+    second: TOJAM2026_clouds_shine_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TOJAM2026_clouds_top_0
+      name: TOJAM2026_clouds_shine_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 6
-        width: 1874
-        height: 648
+        x: 0
+        y: 14
+        width: 846
+        height: 613
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6de445b94c9a21a30800000000000000
-      internalID: 4184593665665289942
+      spriteID: 2d018208e6017e6d0800000000000000
+      internalID: -2961380163190255406
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TOJAM2026_clouds_top_0: 4184593665665289942
+      TOJAM2026_clouds_shine_0: -2961380163190255406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
