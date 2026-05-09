@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 799067db26affc640ad6e4316af3f43b
+guid: a1b9fe19d4d18b44e81f27132c02d529
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 121233213031260661
-    second: Mesh_Stone-Wall_Brick-Texture_AlbedoTransparency_0
+      213: -4247882923119996930
+    second: Mesh_Stone-Wall_Brick-Texture_AO_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mesh_Stone-Wall_Brick-Texture_AlbedoTransparency_0
+      name: Mesh_Stone-Wall_Brick-Texture_AO_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f125b507f4bea100800000000000000
-      internalID: 121233213031260661
+      spriteID: eff0cf7dcfc7c05c0800000000000000
+      internalID: -4247882923119996930
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mesh_Stone-Wall_Brick-Texture_AlbedoTransparency_0: 121233213031260661
+      Mesh_Stone-Wall_Brick-Texture_AO_0: -4247882923119996930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

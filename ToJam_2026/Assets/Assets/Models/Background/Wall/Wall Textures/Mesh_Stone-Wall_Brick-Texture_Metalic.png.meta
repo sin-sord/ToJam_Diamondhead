@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 4c6123330215e0f45837339eacd16f01
+guid: 4651d56e729ce5245b23d879ed6d1424
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1245203017775982646
-    second: Mesh_Stone-Wall_Brick-Texture_Normal_0
+      213: 1028137960876353004
+    second: Mesh_Stone-Wall_Brick-Texture_Metalic_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
-    sRGBTexture: 0
+    enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -55,9 +55,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 1
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mesh_Stone-Wall_Brick-Texture_Normal_0
+      name: Mesh_Stone-Wall_Brick-Texture_Metalic_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63828cb1c89d74110800000000000000
-      internalID: 1245203017775982646
+      spriteID: ce52122370ea44e00800000000000000
+      internalID: 1028137960876353004
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mesh_Stone-Wall_Brick-Texture_Normal_0: 1245203017775982646
+      Mesh_Stone-Wall_Brick-Texture_Metalic_0: 1028137960876353004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

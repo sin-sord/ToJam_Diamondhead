@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 320f6935aed182e4ab438a8aa207d50a
+guid: e9855400893470d499c640492738d067
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7597647443645297370
-    second: Mesh_Stone-Wall_Brick-Texture_MetallicSmoothness_0
+      213: -8683620365141125369
+    second: Mesh_Stone-Wall_Brick-Texture_Height_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mesh_Stone-Wall_Brick-Texture_MetallicSmoothness_0
+      name: Mesh_Stone-Wall_Brick-Texture_Height_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62d0ed077ebbf8690800000000000000
-      internalID: -7597647443645297370
+      spriteID: 7075a6329459d7780800000000000000
+      internalID: -8683620365141125369
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mesh_Stone-Wall_Brick-Texture_MetallicSmoothness_0: -7597647443645297370
+      Mesh_Stone-Wall_Brick-Texture_Height_0: -8683620365141125369
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
