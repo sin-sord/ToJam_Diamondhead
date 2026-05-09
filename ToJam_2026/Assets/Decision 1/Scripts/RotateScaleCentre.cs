@@ -3,6 +3,8 @@ using UnityEngine.InputSystem;
 
 public class RotateScaleCentre : MonoBehaviour
 {
+
+    public SceneLoader sl;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -17,16 +19,21 @@ public class RotateScaleCentre : MonoBehaviour
 
     void rotateScaleLR()
     {
-        if (Input.GetKey(KeyCode.A)) 
-        {
-            Debug.Log("is rotating left");
-            transform.Rotate(0,0,0.02f);
-        }
 
-        if (Input.GetKey(KeyCode.D))
+        if (sl.controlsEnabled)
         {
-            Debug.Log("is rotating right");
-            transform.Rotate(0, 0, -0.02f);
+
+            if (Input.GetKey(KeyCode.A))
+            {
+                Debug.Log("is rotating left");
+                transform.Rotate(0, 0, 0.02f);
+            }
+
+            if (Input.GetKey(KeyCode.D))
+            {
+                Debug.Log("is rotating right");
+                transform.Rotate(0, 0, -0.02f);
+            }
         }
 
     }

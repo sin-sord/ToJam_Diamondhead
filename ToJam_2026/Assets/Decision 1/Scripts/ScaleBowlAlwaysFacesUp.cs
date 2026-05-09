@@ -23,10 +23,10 @@ public class ScaleBowlAlwaysFacesUp : MonoBehaviour
         //Quaternion pointRotation = Quaternion.LookRotation(Vector3.forward, nail.position.normalized);
         //rb.MoveRotation(pointRotation);
 
-        Vector3 direction = (nail.position - rb.position).normalized;
-        Quaternion targetRotation = Quaternion.LookRotation(direction);
-        Quaternion nextRotation = Quaternion.Slerp(rb.rotation, targetRotation, rotationSpeed*Time.fixedDeltaTime);
-        rb.MoveRotation(nextRotation);
+        //Vector3 direction = (nail.position - rb.position).normalized;
+        //Quaternion targetRotation = Quaternion.LookRotation(direction);
+        //Quaternion nextRotation = Quaternion.Slerp(rb.rotation, targetRotation, rotationSpeed*Time.fixedDeltaTime);
+        //rb.MoveRotation(nextRotation);
      
     }
 }
