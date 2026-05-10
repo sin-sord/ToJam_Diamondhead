@@ -9,8 +9,35 @@ EditorBuildSettings:
     path: Assets/Decision 1/Decision 1.unity
     guid: 45ecd5d139116234e9e872ceff2067ee
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Decision 1/Decision 2.unity
+    guid: a848c5127e4354846b5b01a8dc451b4e
+  - enabled: 1
+    path: Assets/Decision 1/Decision 3.unity
+    guid: 15271c20887f982419f1f5cbc6d03a4f
+  - enabled: 1
+    path: Assets/Decision 1/Decision 4.unity
+    guid: ccb72885a8c200a479fb5eb65276a2bc
+  - enabled: 1
+    path: Assets/Decision 1/Decision 5.unity
+    guid: 16c764c1345586a439bb0c5b28f1ca81
+  - enabled: 1
+    path: Assets/Decision 1/Decision 6.unity
+    guid: e561953c3a5174342b084a1f60f06bdd
+  - enabled: 1
+    path: Assets/Decision 1/Decision 7.unity
+    guid: bbc3a06dea19e344b9159e984432fd06
+  - enabled: 1
+    path: Assets/Decision 1/Decision 8.unity
+    guid: 6d582e5ed258a964a92151aea7088709
+  - enabled: 1
+    path: Assets/Decision 1/Decision 9.unity
+    guid: dd91c57f725f82040b68a5a772eaabe5
+  - enabled: 1
+    path: Assets/Decision 1/Decision 10.unity
+    guid: 61371cccf68783740bcec7ed69766525
+  - enabled: 1
+    path: Assets/Decision 1/Decision 11.unity
+    guid: 79a3235f732118945b7f3bcd62df0c7c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
