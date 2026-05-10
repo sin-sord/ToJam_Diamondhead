@@ -4,13 +4,16 @@ using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour
 {
 
-    public SpriteRenderer completionScreenA;
-    public SpriteRenderer completionScreenB;
+    public SpriteRenderer completionScreenAIcon;
+    public SpriteRenderer completionScreenBIcon;
+
+    public SpriteRenderer completionTextA;
+    public SpriteRenderer completionTextB;
+
+    public SpriteRenderer PressSpace;
     [SerializeField]
     public bool controlsEnabled;
 
-    GameObject completionScreenObjectA;
-    GameObject completionScreenObjectB;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -34,7 +37,9 @@ public class SceneLoader : MonoBehaviour
 
         if (other.tag == "ScaleBaseA")
         {
-            completionScreenA.enabled = true;
+            completionScreenAIcon.enabled = true;
+            completionTextA.enabled = true;
+            PressSpace.enabled = true;
 
             Debug.Log("Scale Option A was Selected");
 
@@ -42,7 +47,11 @@ public class SceneLoader : MonoBehaviour
 
         if (other.tag == "ScaleBaseB")
         {
-            completionScreenB.enabled = true;
+            completionScreenBIcon.enabled = true;
+            completionTextB.enabled = true;
+            PressSpace.enabled = true;
+
+
             Debug.Log("Scale Option B was Selected");
                 
         }
