@@ -1,0 +1,5187 @@
+fileFormatVersion: 2
+guid: 726b4dfd17912d5479e66cda2568a0e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 27502113194628047
+    second: Mesh_Candle_M_Candle Base_Metalic_0
+  - first:
+      213: -640582117233087879
+    second: Mesh_Candle_M_Candle Base_Metalic_1
+  - first:
+      213: -277462664278599300
+    second: Mesh_Candle_M_Candle Base_Metalic_2
+  - first:
+      213: 453961541165359487
+    second: Mesh_Candle_M_Candle Base_Metalic_3
+  - first:
+      213: -2684822131881386828
+    second: Mesh_Candle_M_Candle Base_Metalic_4
+  - first:
+      213: -5581752497697624087
+    second: Mesh_Candle_M_Candle Base_Metalic_5
+  - first:
+      213: 2915853995218568417
+    second: Mesh_Candle_M_Candle Base_Metalic_6
+  - first:
+      213: -5291751266983736832
+    second: Mesh_Candle_M_Candle Base_Metalic_7
+  - first:
+      213: 5797027172149305135
+    second: Mesh_Candle_M_Candle Base_Metalic_8
+  - first:
+      213: 1774393419977673149
+    second: Mesh_Candle_M_Candle Base_Metalic_9
+  - first:
+      213: -6383315960308995605
+    second: Mesh_Candle_M_Candle Base_Metalic_10
+  - first:
+      213: -5314050323081888112
+    second: Mesh_Candle_M_Candle Base_Metalic_11
+  - first:
+      213: -9216332303106050281
+    second: Mesh_Candle_M_Candle Base_Metalic_12
+  - first:
+      213: 5630537601994253800
+    second: Mesh_Candle_M_Candle Base_Metalic_13
+  - first:
+      213: 3083533165654667015
+    second: Mesh_Candle_M_Candle Base_Metalic_14
+  - first:
+      213: -8177582857999938854
+    second: Mesh_Candle_M_Candle Base_Metalic_15
+  - first:
+      213: -7810575252858943515
+    second: Mesh_Candle_M_Candle Base_Metalic_16
+  - first:
+      213: 7812406646308060736
+    second: Mesh_Candle_M_Candle Base_Metalic_17
+  - first:
+      213: -9010477399801391811
+    second: Mesh_Candle_M_Candle Base_Metalic_18
+  - first:
+      213: -6470339237646555725
+    second: Mesh_Candle_M_Candle Base_Metalic_19
+  - first:
+      213: -8626639624817699632
+    second: Mesh_Candle_M_Candle Base_Metalic_20
+  - first:
+      213: -5209369920430031081
+    second: Mesh_Candle_M_Candle Base_Metalic_21
+  - first:
+      213: 5995784491166173399
+    second: Mesh_Candle_M_Candle Base_Metalic_22
+  - first:
+      213: 1375868161611451559
+    second: Mesh_Candle_M_Candle Base_Metalic_23
+  - first:
+      213: 3432513107412978044
+    second: Mesh_Candle_M_Candle Base_Metalic_24
+  - first:
+      213: -730861665930608993
+    second: Mesh_Candle_M_Candle Base_Metalic_25
+  - first:
+      213: -2662636132148272513
+    second: Mesh_Candle_M_Candle Base_Metalic_26
+  - first:
+      213: 1356888418039598989
+    second: Mesh_Candle_M_Candle Base_Metalic_27
+  - first:
+      213: -4077330552923701317
+    second: Mesh_Candle_M_Candle Base_Metalic_28
+  - first:
+      213: 4259129311033078418
+    second: Mesh_Candle_M_Candle Base_Metalic_29
+  - first:
+      213: -2372650834244757345
+    second: Mesh_Candle_M_Candle Base_Metalic_30
+  - first:
+      213: -7632672442586638415
+    second: Mesh_Candle_M_Candle Base_Metalic_31
+  - first:
+      213: 4349113359120664979
+    second: Mesh_Candle_M_Candle Base_Metalic_32
+  - first:
+      213: 6585256796058040384
+    second: Mesh_Candle_M_Candle Base_Metalic_33
+  - first:
+      213: -1566688857730591239
+    second: Mesh_Candle_M_Candle Base_Metalic_34
+  - first:
+      213: 3775029987250510255
+    second: Mesh_Candle_M_Candle Base_Metalic_35
+  - first:
+      213: -7108383171975195202
+    second: Mesh_Candle_M_Candle Base_Metalic_36
+  - first:
+      213: -8610736678112100978
+    second: Mesh_Candle_M_Candle Base_Metalic_37
+  - first:
+      213: -5712438991676634951
+    second: Mesh_Candle_M_Candle Base_Metalic_38
+  - first:
+      213: -1974601867932617994
+    second: Mesh_Candle_M_Candle Base_Metalic_39
+  - first:
+      213: -2293219028241436322
+    second: Mesh_Candle_M_Candle Base_Metalic_40
+  - first:
+      213: -1566336427659880575
+    second: Mesh_Candle_M_Candle Base_Metalic_41
+  - first:
+      213: 166276758369609200
+    second: Mesh_Candle_M_Candle Base_Metalic_42
+  - first:
+      213: -1801667833284123158
+    second: Mesh_Candle_M_Candle Base_Metalic_43
+  - first:
+      213: 8358005107609789209
+    second: Mesh_Candle_M_Candle Base_Metalic_44
+  - first:
+      213: -6395236965521290647
+    second: Mesh_Candle_M_Candle Base_Metalic_45
+  - first:
+      213: -7830093942172663683
+    second: Mesh_Candle_M_Candle Base_Metalic_46
+  - first:
+      213: -1217390009973621502
+    second: Mesh_Candle_M_Candle Base_Metalic_47
+  - first:
+      213: -856462195664628426
+    second: Mesh_Candle_M_Candle Base_Metalic_48
+  - first:
+      213: -2906713477960666430
+    second: Mesh_Candle_M_Candle Base_Metalic_49
+  - first:
+      213: 2267285833154688564
+    second: Mesh_Candle_M_Candle Base_Metalic_50
+  - first:
+      213: 5453676535821358823
+    second: Mesh_Candle_M_Candle Base_Metalic_51
+  - first:
+      213: -7001515681095017063
+    second: Mesh_Candle_M_Candle Base_Metalic_52
+  - first:
+      213: -6084791959308656522
+    second: Mesh_Candle_M_Candle Base_Metalic_53
+  - first:
+      213: -5554291094498644416
+    second: Mesh_Candle_M_Candle Base_Metalic_54
+  - first:
+      213: 4030858701717364462
+    second: Mesh_Candle_M_Candle Base_Metalic_55
+  - first:
+      213: 4576663213724485342
+    second: Mesh_Candle_M_Candle Base_Metalic_56
+  - first:
+      213: 7985035482923800608
+    second: Mesh_Candle_M_Candle Base_Metalic_57
+  - first:
+      213: 1808145300186740482
+    second: Mesh_Candle_M_Candle Base_Metalic_58
+  - first:
+      213: 7846073934604429786
+    second: Mesh_Candle_M_Candle Base_Metalic_59
+  - first:
+      213: 7715342369784730036
+    second: Mesh_Candle_M_Candle Base_Metalic_60
+  - first:
+      213: -4051638658308503519
+    second: Mesh_Candle_M_Candle Base_Metalic_61
+  - first:
+      213: 5982919882159121508
+    second: Mesh_Candle_M_Candle Base_Metalic_62
+  - first:
+      213: 878695688987276886
+    second: Mesh_Candle_M_Candle Base_Metalic_63
+  - first:
+      213: 5030687025678929969
+    second: Mesh_Candle_M_Candle Base_Metalic_64
+  - first:
+      213: 2237582414953771895
+    second: Mesh_Candle_M_Candle Base_Metalic_65
+  - first:
+      213: -4874128142649246134
+    second: Mesh_Candle_M_Candle Base_Metalic_66
+  - first:
+      213: 9076226564800361196
+    second: Mesh_Candle_M_Candle Base_Metalic_67
+  - first:
+      213: -3758003093466076822
+    second: Mesh_Candle_M_Candle Base_Metalic_68
+  - first:
+      213: -2683602548469555817
+    second: Mesh_Candle_M_Candle Base_Metalic_69
+  - first:
+      213: -114893065151728848
+    second: Mesh_Candle_M_Candle Base_Metalic_70
+  - first:
+      213: -1256455614292054497
+    second: Mesh_Candle_M_Candle Base_Metalic_71
+  - first:
+      213: 8918313190070277453
+    second: Mesh_Candle_M_Candle Base_Metalic_72
+  - first:
+      213: -3413926492539237768
+    second: Mesh_Candle_M_Candle Base_Metalic_73
+  - first:
+      213: -2695263556863504092
+    second: Mesh_Candle_M_Candle Base_Metalic_74
+  - first:
+      213: 1739833941007287185
+    second: Mesh_Candle_M_Candle Base_Metalic_75
+  - first:
+      213: 959899315996451159
+    second: Mesh_Candle_M_Candle Base_Metalic_76
+  - first:
+      213: -7178916848523477416
+    second: Mesh_Candle_M_Candle Base_Metalic_77
+  - first:
+      213: 6823121345762493385
+    second: Mesh_Candle_M_Candle Base_Metalic_78
+  - first:
+      213: -5182079343627235328
+    second: Mesh_Candle_M_Candle Base_Metalic_79
+  - first:
+      213: 3721427547453801624
+    second: Mesh_Candle_M_Candle Base_Metalic_80
+  - first:
+      213: -8533303230413636369
+    second: Mesh_Candle_M_Candle Base_Metalic_81
+  - first:
+      213: -2920184815792484080
+    second: Mesh_Candle_M_Candle Base_Metalic_82
+  - first:
+      213: -1589852923020135195
+    second: Mesh_Candle_M_Candle Base_Metalic_83
+  - first:
+      213: 6923946349903568005
+    second: Mesh_Candle_M_Candle Base_Metalic_84
+  - first:
+      213: -6651454310106450610
+    second: Mesh_Candle_M_Candle Base_Metalic_85
+  - first:
+      213: 4299857246351257124
+    second: Mesh_Candle_M_Candle Base_Metalic_86
+  - first:
+      213: 2839405148217074993
+    second: Mesh_Candle_M_Candle Base_Metalic_87
+  - first:
+      213: 7826006111842111350
+    second: Mesh_Candle_M_Candle Base_Metalic_88
+  - first:
+      213: 3243496884540625869
+    second: Mesh_Candle_M_Candle Base_Metalic_89
+  - first:
+      213: -3287572584446685632
+    second: Mesh_Candle_M_Candle Base_Metalic_90
+  - first:
+      213: 3862762947859188788
+    second: Mesh_Candle_M_Candle Base_Metalic_91
+  - first:
+      213: -159645516875609043
+    second: Mesh_Candle_M_Candle Base_Metalic_92
+  - first:
+      213: -1427821288530537374
+    second: Mesh_Candle_M_Candle Base_Metalic_93
+  - first:
+      213: -6213990671766348525
+    second: Mesh_Candle_M_Candle Base_Metalic_94
+  - first:
+      213: 1030789106964252223
+    second: Mesh_Candle_M_Candle Base_Metalic_95
+  - first:
+      213: -8601627314920127957
+    second: Mesh_Candle_M_Candle Base_Metalic_96
+  - first:
+      213: -8117332103054118710
+    second: Mesh_Candle_M_Candle Base_Metalic_97
+  - first:
+      213: -9202265764610455185
+    second: Mesh_Candle_M_Candle Base_Metalic_98
+  - first:
+      213: -2889748925800042775
+    second: Mesh_Candle_M_Candle Base_Metalic_99
+  - first:
+      213: -8683802255706540042
+    second: Mesh_Candle_M_Candle Base_Metalic_100
+  - first:
+      213: -7826694723343625239
+    second: Mesh_Candle_M_Candle Base_Metalic_101
+  - first:
+      213: -5298059912076494180
+    second: Mesh_Candle_M_Candle Base_Metalic_102
+  - first:
+      213: 5262687729489928104
+    second: Mesh_Candle_M_Candle Base_Metalic_103
+  - first:
+      213: -4634929176167539845
+    second: Mesh_Candle_M_Candle Base_Metalic_104
+  - first:
+      213: -1994571844828545401
+    second: Mesh_Candle_M_Candle Base_Metalic_105
+  - first:
+      213: -8784298675612213177
+    second: Mesh_Candle_M_Candle Base_Metalic_106
+  - first:
+      213: 971459543656085302
+    second: Mesh_Candle_M_Candle Base_Metalic_107
+  - first:
+      213: -4278704699727918970
+    second: Mesh_Candle_M_Candle Base_Metalic_108
+  - first:
+      213: 2795380575499521362
+    second: Mesh_Candle_M_Candle Base_Metalic_109
+  - first:
+      213: -4236411283247439952
+    second: Mesh_Candle_M_Candle Base_Metalic_110
+  - first:
+      213: -159527059208611972
+    second: Mesh_Candle_M_Candle Base_Metalic_111
+  - first:
+      213: -4494255306281090052
+    second: Mesh_Candle_M_Candle Base_Metalic_112
+  - first:
+      213: 723467523659647059
+    second: Mesh_Candle_M_Candle Base_Metalic_113
+  - first:
+      213: 4882671399450653693
+    second: Mesh_Candle_M_Candle Base_Metalic_114
+  - first:
+      213: -2868211535549928380
+    second: Mesh_Candle_M_Candle Base_Metalic_115
+  - first:
+      213: -5599425072568163484
+    second: Mesh_Candle_M_Candle Base_Metalic_116
+  - first:
+      213: 3397453630178446034
+    second: Mesh_Candle_M_Candle Base_Metalic_117
+  - first:
+      213: -6591984883358644426
+    second: Mesh_Candle_M_Candle Base_Metalic_118
+  - first:
+      213: -563148425074138422
+    second: Mesh_Candle_M_Candle Base_Metalic_119
+  - first:
+      213: 7231229559536854574
+    second: Mesh_Candle_M_Candle Base_Metalic_120
+  - first:
+      213: 2137169805479993852
+    second: Mesh_Candle_M_Candle Base_Metalic_121
+  - first:
+      213: -7101096559152216636
+    second: Mesh_Candle_M_Candle Base_Metalic_122
+  - first:
+      213: 2052370018835340279
+    second: Mesh_Candle_M_Candle Base_Metalic_123
+  - first:
+      213: 2001031565552079792
+    second: Mesh_Candle_M_Candle Base_Metalic_124
+  - first:
+      213: 4834968703983124193
+    second: Mesh_Candle_M_Candle Base_Metalic_125
+  - first:
+      213: -362080841433901615
+    second: Mesh_Candle_M_Candle Base_Metalic_126
+  - first:
+      213: -4823783528443280589
+    second: Mesh_Candle_M_Candle Base_Metalic_127
+  - first:
+      213: 8709131878424146558
+    second: Mesh_Candle_M_Candle Base_Metalic_128
+  - first:
+      213: 2758802239207567875
+    second: Mesh_Candle_M_Candle Base_Metalic_129
+  - first:
+      213: -7573617889642813865
+    second: Mesh_Candle_M_Candle Base_Metalic_130
+  - first:
+      213: 3943116770470123416
+    second: Mesh_Candle_M_Candle Base_Metalic_131
+  - first:
+      213: -8475476353330390059
+    second: Mesh_Candle_M_Candle Base_Metalic_132
+  - first:
+      213: -5334219698107127869
+    second: Mesh_Candle_M_Candle Base_Metalic_133
+  - first:
+      213: 5145888090055074197
+    second: Mesh_Candle_M_Candle Base_Metalic_134
+  - first:
+      213: -8758509361620108718
+    second: Mesh_Candle_M_Candle Base_Metalic_135
+  - first:
+      213: -621500149970100805
+    second: Mesh_Candle_M_Candle Base_Metalic_136
+  - first:
+      213: -8249998638340830170
+    second: Mesh_Candle_M_Candle Base_Metalic_137
+  - first:
+      213: 8864652789555097964
+    second: Mesh_Candle_M_Candle Base_Metalic_138
+  - first:
+      213: -1137398776877034933
+    second: Mesh_Candle_M_Candle Base_Metalic_139
+  - first:
+      213: 7961274098326583378
+    second: Mesh_Candle_M_Candle Base_Metalic_140
+  - first:
+      213: -6902297537185132352
+    second: Mesh_Candle_M_Candle Base_Metalic_141
+  - first:
+      213: 1864880276732386427
+    second: Mesh_Candle_M_Candle Base_Metalic_142
+  - first:
+      213: 774071183375752303
+    second: Mesh_Candle_M_Candle Base_Metalic_143
+  - first:
+      213: -2397183778865657122
+    second: Mesh_Candle_M_Candle Base_Metalic_144
+  - first:
+      213: -2654235835261603984
+    second: Mesh_Candle_M_Candle Base_Metalic_145
+  - first:
+      213: -8197817815376274437
+    second: Mesh_Candle_M_Candle Base_Metalic_146
+  - first:
+      213: -6370689050033979761
+    second: Mesh_Candle_M_Candle Base_Metalic_147
+  - first:
+      213: 1903529881269359084
+    second: Mesh_Candle_M_Candle Base_Metalic_148
+  - first:
+      213: -4405259599904854217
+    second: Mesh_Candle_M_Candle Base_Metalic_149
+  - first:
+      213: -4023158283336459408
+    second: Mesh_Candle_M_Candle Base_Metalic_150
+  - first:
+      213: 3237175735236138489
+    second: Mesh_Candle_M_Candle Base_Metalic_151
+  - first:
+      213: 8794057541010240988
+    second: Mesh_Candle_M_Candle Base_Metalic_152
+  - first:
+      213: -8944676695954377091
+    second: Mesh_Candle_M_Candle Base_Metalic_153
+  - first:
+      213: 8505324349373045086
+    second: Mesh_Candle_M_Candle Base_Metalic_154
+  - first:
+      213: -3211222420829407891
+    second: Mesh_Candle_M_Candle Base_Metalic_155
+  - first:
+      213: 7328042508460867840
+    second: Mesh_Candle_M_Candle Base_Metalic_156
+  - first:
+      213: -7163165990430671822
+    second: Mesh_Candle_M_Candle Base_Metalic_157
+  - first:
+      213: 1469494487652578321
+    second: Mesh_Candle_M_Candle Base_Metalic_158
+  - first:
+      213: -6593056942063591985
+    second: Mesh_Candle_M_Candle Base_Metalic_159
+  - first:
+      213: 1302322861093929895
+    second: Mesh_Candle_M_Candle Base_Metalic_160
+  - first:
+      213: -7052100601520242880
+    second: Mesh_Candle_M_Candle Base_Metalic_161
+  - first:
+      213: -2212229234940770473
+    second: Mesh_Candle_M_Candle Base_Metalic_162
+  - first:
+      213: -5374161813238739281
+    second: Mesh_Candle_M_Candle Base_Metalic_163
+  - first:
+      213: -3895649764001701493
+    second: Mesh_Candle_M_Candle Base_Metalic_164
+  - first:
+      213: 8923933476363628767
+    second: Mesh_Candle_M_Candle Base_Metalic_165
+  - first:
+      213: -5436847654864456077
+    second: Mesh_Candle_M_Candle Base_Metalic_166
+  - first:
+      213: -6100364558699593420
+    second: Mesh_Candle_M_Candle Base_Metalic_167
+  - first:
+      213: -8755619778597592875
+    second: Mesh_Candle_M_Candle Base_Metalic_168
+  - first:
+      213: 5097065330663176293
+    second: Mesh_Candle_M_Candle Base_Metalic_169
+  - first:
+      213: 5257041405791184578
+    second: Mesh_Candle_M_Candle Base_Metalic_170
+  - first:
+      213: 8207343742707876787
+    second: Mesh_Candle_M_Candle Base_Metalic_171
+  - first:
+      213: 4371101006367035153
+    second: Mesh_Candle_M_Candle Base_Metalic_172
+  - first:
+      213: 3346071091642283050
+    second: Mesh_Candle_M_Candle Base_Metalic_173
+  - first:
+      213: -3488174900828110346
+    second: Mesh_Candle_M_Candle Base_Metalic_174
+  - first:
+      213: -270087304919203811
+    second: Mesh_Candle_M_Candle Base_Metalic_175
+  - first:
+      213: 5076123401124785065
+    second: Mesh_Candle_M_Candle Base_Metalic_176
+  - first:
+      213: 6718201615697181388
+    second: Mesh_Candle_M_Candle Base_Metalic_177
+  - first:
+      213: -5735631407418506352
+    second: Mesh_Candle_M_Candle Base_Metalic_178
+  - first:
+      213: 7149228405763765764
+    second: Mesh_Candle_M_Candle Base_Metalic_179
+  - first:
+      213: 1924686035389127797
+    second: Mesh_Candle_M_Candle Base_Metalic_180
+  - first:
+      213: 7645538726472506184
+    second: Mesh_Candle_M_Candle Base_Metalic_181
+  - first:
+      213: -5453034848613771789
+    second: Mesh_Candle_M_Candle Base_Metalic_182
+  - first:
+      213: -7202042218878771992
+    second: Mesh_Candle_M_Candle Base_Metalic_183
+  - first:
+      213: 6545405175443006855
+    second: Mesh_Candle_M_Candle Base_Metalic_184
+  - first:
+      213: -2340839388695367953
+    second: Mesh_Candle_M_Candle Base_Metalic_185
+  - first:
+      213: -7832270292351260887
+    second: Mesh_Candle_M_Candle Base_Metalic_186
+  - first:
+      213: 1036335211756045216
+    second: Mesh_Candle_M_Candle Base_Metalic_187
+  - first:
+      213: 4396324082972307517
+    second: Mesh_Candle_M_Candle Base_Metalic_188
+  - first:
+      213: 7930846485637055050
+    second: Mesh_Candle_M_Candle Base_Metalic_189
+  - first:
+      213: 157825536954203478
+    second: Mesh_Candle_M_Candle Base_Metalic_190
+  - first:
+      213: 3542451070580059358
+    second: Mesh_Candle_M_Candle Base_Metalic_191
+  - first:
+      213: 5211880168472020236
+    second: Mesh_Candle_M_Candle Base_Metalic_192
+  - first:
+      213: -5702586226574977724
+    second: Mesh_Candle_M_Candle Base_Metalic_193
+  - first:
+      213: 7401134736917981280
+    second: Mesh_Candle_M_Candle Base_Metalic_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 253
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3d987b605b16000800000000000000
+      internalID: 27502113194628047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2020
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aaad455f13c17f0800000000000000
+      internalID: -640582117233087879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2000
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799d394d21462cf0800000000000000
+      internalID: -277462664278599300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1915
+        width: 124
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71a9d2dd9bcc4600800000000000000
+      internalID: 453961541165359487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2020
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc5a10fe789dbad0800000000000000
+      internalID: -2684822131881386828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2025
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef659e3da1a982b0800000000000000
+      internalID: -5581752497697624087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2025
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e408e182c1377820800000000000000
+      internalID: 2915853995218568417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2011
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a06b3724cef86b0800000000000000
+      internalID: -5291751266983736832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 950
+        width: 479
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f1f35cf7d237050800000000000000
+      internalID: 5797027172149305135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 1184
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db94f811a69ef9810800000000000000
+      internalID: 1774393419977673149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1957
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be963b054f7e967a0800000000000000
+      internalID: -6383315960308995605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1952
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e772ed263b046b0800000000000000
+      internalID: -5314050323081888112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1948
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f76db992091080800000000000000
+      internalID: -9216332303106050281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1923
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e85dfd10b32e40800000000000000
+      internalID: 5630537601994253800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1933
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f6bffa319eaca20800000000000000
+      internalID: 3083533165654667015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1945
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada0793a7b3638e80800000000000000
+      internalID: -8177582857999938854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_16
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1897
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7c2e190334b9390800000000000000
+      internalID: -7810575252858943515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1945
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eb712f37e3b6c60800000000000000
+      internalID: 7812406646308060736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1928
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3517206b8a54f280800000000000000
+      internalID: -9010477399801391811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1934
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b52ec3aebcb436a0800000000000000
+      internalID: -6470339237646555725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1706
+        width: 142
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d49e6597f4084880800000000000000
+      internalID: -8626639624817699632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1911
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fb92568a994b7b0800000000000000
+      internalID: -5209369920430031081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1779
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d881c94a3e453350800000000000000
+      internalID: 5995784491166173399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1849
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acce96adc0181310800000000000000
+      internalID: 1375868161611451559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1841
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7909362c7cb2af20800000000000000
+      internalID: 3432513107412978044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1803
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e7146ef257bd5f0800000000000000
+      internalID: -730861665930608993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1766
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72ae298b8a6c0bd0800000000000000
+      internalID: -2662636132148272513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1787
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f871db3d2a4d210800000000000000
+      internalID: 1356888418039598989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1749
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfb229f6796a67c0800000000000000
+      internalID: -4077330552923701317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1763
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292b494ea877b1b30800000000000000
+      internalID: 4259129311033078418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1761
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f989ec813a6a21fd0800000000000000
+      internalID: -2372650834244757345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_31
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1763
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d5b46adc431690800000000000000
+      internalID: -7632672442586638415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1740
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3990b4abe872b5c30800000000000000
+      internalID: 4349113359120664979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_33
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1756
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04834c37a28836b50800000000000000
+      internalID: 6585256796058040384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1737
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d769d8c0024ae0800000000000000
+      internalID: -1566688857730591239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_35
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1744
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9938eb5c9936430800000000000000
+      internalID: 3775029987250510255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1707
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5dd0bba23f95d90800000000000000
+      internalID: -7108383171975195202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_37
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1717
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d73b6ec94808880800000000000000
+      internalID: -8610736678112100978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_38
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1715
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8060cb00759b0b0800000000000000
+      internalID: -5712438991676634951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_39
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1710
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2bd01201ec894e0800000000000000
+      internalID: -1974601867932617994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1707
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51b08d9179dc20e0800000000000000
+      internalID: -2293219028241436322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1679
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187149e5151434ae0800000000000000
+      internalID: -1566336427659880575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1467
+        width: 162
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5260da4dbbe4200800000000000000
+      internalID: 166276758369609200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae52ad9b6a03ff6e0800000000000000
+      internalID: -1801667833284123158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_44
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1467
+        width: 152
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9136bfddc599df370800000000000000
+      internalID: 8358005107609789209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_45
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1592
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a08affcdd8f37a0800000000000000
+      internalID: -6395236965521290647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1292
+        width: 225
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d704cd29b0be55390800000000000000
+      internalID: -7830093942172663683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1527
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20db9666c36fa1fe0800000000000000
+      internalID: -1217390009973621502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_48
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1535
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635dbd7bb2c3d14f0800000000000000
+      internalID: -856462195664628426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1536
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c270520e7749a7d0800000000000000
+      internalID: -2906713477960666430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1538
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436f571e374077f10800000000000000
+      internalID: 2267285833154688564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1465
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d38d1ae95fab40800000000000000
+      internalID: 5453676535821358823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_52
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1465
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d110b659e95de90800000000000000
+      internalID: -7001515681095017063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1399
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670214d93f97e8ba0800000000000000
+      internalID: -6084791959308656522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_54
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1399
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eea4d6da13be2b0800000000000000
+      internalID: -5554291094498644416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1361
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeed7aff1ac70f730800000000000000
+      internalID: 4030858701717364462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1361
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed645a6d1f2938f30800000000000000
+      internalID: 4576663213724485342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1325
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281096177b80de60800000000000000
+      internalID: 7985035482923800608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_58
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2073cef0292d71910800000000000000
+      internalID: 1808145300186740482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1324
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad96c895caad2ec60800000000000000
+      internalID: 7846073934604429786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1303
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b11a87f107621b60800000000000000
+      internalID: 7715342369784730036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1302
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12808455b10b5c7c0800000000000000
+      internalID: -4051638658308503519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_62
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1307
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46467b71fe9970350800000000000000
+      internalID: 5982919882159121508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_63
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1276
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656f0c7d211c13c00800000000000000
+      internalID: 878695688987276886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_64
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1303
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13052c5323790d540800000000000000
+      internalID: 5030687025678929969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_65
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1115
+        width: 119
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773faf6e95d7d0f10800000000000000
+      internalID: 2237582414953771895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_66
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e38ab474e9b5cb0800000000000000
+      internalID: -4874128142649246134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_67
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2b3e709fb35fd70800000000000000
+      internalID: 9076226564800361196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1237
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69a225e814e8dbc0800000000000000
+      internalID: -3758003093466076822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_69
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1220
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d932453bde1cad0800000000000000
+      internalID: -2683602548469555817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_70
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1158
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b970bd51d76ef0800000000000000
+      internalID: -114893065151728848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_71
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1188
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ea31a964c209ee0800000000000000
+      internalID: -1256455614292054497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_72
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1145
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d1d9589634cb70800000000000000
+      internalID: 8918313190070277453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_73
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1167
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a47ea51fb4f90d0800000000000000
+      internalID: -3413926492539237768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_74
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1128
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421581d3310889ad0800000000000000
+      internalID: -2695263556863504092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1143
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19348e550c1252810800000000000000
+      internalID: 1739833941007287185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_76
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1141
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751eb16975f325d00800000000000000
+      internalID: 959899315996451159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_77
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1143
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef0bb692d5f5c90800000000000000
+      internalID: -7178916848523477416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_78
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1123
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30f89a6b890be50800000000000000
+      internalID: 6823121345762493385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_79
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1130
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0009535fa4e8518b0800000000000000
+      internalID: -5182079343627235328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_80
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1102
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894465f23aa25a330800000000000000
+      internalID: 3721427547453801624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_81
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1123
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec708e5ced939980800000000000000
+      internalID: -8533303230413636369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_82
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1090
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0111330c16b6977d0800000000000000
+      internalID: -2920184815792484080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_83
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1088
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b44e9035bfe9e0800000000000000
+      internalID: -1589852923020135195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_84
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1094
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c5dd5458cc61060800000000000000
+      internalID: 6923946349903568005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_85
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1058
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453d5ebb8941b3a0800000000000000
+      internalID: -6651454310106450610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_86
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1090
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ee7a942692cab30800000000000000
+      internalID: 4299857246351257124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 847
+        width: 152
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e4e040f7976720800000000000000
+      internalID: 2839405148217074993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_88
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1015
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8262481f8b9c60800000000000000
+      internalID: 7826006111842111350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_89
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1023
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc351215b37330d20800000000000000
+      internalID: 3243496884540625869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_90
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1024
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e0eba17223062d0800000000000000
+      internalID: -3287572584446685632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_91
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1026
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c00be6f6a4b9530800000000000000
+      internalID: 3862762947859188788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_92
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 847
+        width: 152
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c45ac8f33d8cdf0800000000000000
+      internalID: -159645516875609043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1012
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264956e5a1c5f2ce0800000000000000
+      internalID: -1427821288530537374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1010
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d96cb386873c9a0800000000000000
+      internalID: -6213990671766348525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1010
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3642fe3b391e4e00800000000000000
+      internalID: 1030789106964252223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 965
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2283ebc781e0a880800000000000000
+      internalID: -8601627314920127957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_97
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 958
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b591b571795f80800000000000000
+      internalID: -8117332103054118710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_98
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 988
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69c7a3fa0cfa4080800000000000000
+      internalID: -9202265764610455185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 970
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2f9b99ac85e7d0800000000000000
+      internalID: -2889748925800042775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_100
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 963
+        width: 165
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f730e07bdfec7780800000000000000
+      internalID: -8683802255706540042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_101
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 968
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3dda1ed9ef16390800000000000000
+      internalID: -7826694723343625239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_102
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 960
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a71fd84928976b0800000000000000
+      internalID: -5298059912076494180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_103
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 956
+        width: 162
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afdd086b92d80940800000000000000
+      internalID: 5262687729489928104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_104
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 760
+        width: 211
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b907f987c6dafb0800000000000000
+      internalID: -4634929176167539845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 911
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ebffd897bd154e0800000000000000
+      internalID: -1994571844828545401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_106
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 919
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740233f45e6e71680800000000000000
+      internalID: -8784298675612213177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_107
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 455
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b845de415b7d00800000000000000
+      internalID: 971459543656085302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_108
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 844
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6884ce1cebcfe94c0800000000000000
+      internalID: -4278704699727918970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_109
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 844
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d0da6a2df2bc620800000000000000
+      internalID: 2795380575499521362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_110
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 779
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf5493226e3535c0800000000000000
+      internalID: -4236411283247439952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_111
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 779
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77decf1cfe39cdf0800000000000000
+      internalID: -159527059208611972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_112
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 818
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3833b4c9231a1c0800000000000000
+      internalID: -4494255306281090052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_113
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 806
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358c34231e54a0a00800000000000000
+      internalID: 723467523659647059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 698
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3373fa4cbb2c340800000000000000
+      internalID: 4882671399450653693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_115
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 676
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6eda0ec01238d0800000000000000
+      internalID: -2868211535549928380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_116
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 740
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463a8234098da42b0800000000000000
+      internalID: -5599425072568163484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_117
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 704
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dac5af731e262f20800000000000000
+      internalID: 3397453630178446034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_118
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 711
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637c9a6aca09484a0800000000000000
+      internalID: -6591984883358644426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_119
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 713
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a2a7bd7b4f28f0800000000000000
+      internalID: -563148425074138422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_120
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 711
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26af71c8fc7a5460800000000000000
+      internalID: 7231229559536854574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_121
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 711
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf163586d90c8ad10800000000000000
+      internalID: 2137169805479993852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_122
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 682
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5cbfb7d46d37d90800000000000000
+      internalID: -7101096559152216636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_123
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 693
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb975088ab7b7c10800000000000000
+      internalID: 2052370018835340279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_124
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 702
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b353116b9715cb10800000000000000
+      internalID: 2001031565552079792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_125
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 676
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee7b056b62491340800000000000000
+      internalID: 4834968703983124193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_126
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d59b52a461a9faf0800000000000000
+      internalID: -362080841433901615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_127
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 655
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33302c9307a7e0db0800000000000000
+      internalID: -4823783528443280589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_128
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 502
+        width: 107
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72708bec4d0dd870800000000000000
+      internalID: 8709131878424146558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_129
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 670
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302f481150c394620800000000000000
+      internalID: 2758802239207567875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_130
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 537
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756eb47f7aa15e690800000000000000
+      internalID: -7573617889642813865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_131
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 616
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d1cbafc3c8b630800000000000000
+      internalID: 3943116770470123416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_132
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 599
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbd481692f016a80800000000000000
+      internalID: -8475476353330390059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_133
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 568
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ee6c427b09f5b0800000000000000
+      internalID: -5334219698107127869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_134
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 590
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59165ad24fdd96740800000000000000
+      internalID: 5145888090055074197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_135
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 575
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a33b2e326837680800000000000000
+      internalID: -8758509361620108718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_136
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 546
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd1e2d08ecff57f0800000000000000
+      internalID: -621500149970100805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_137
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 494
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0d34e2fd128d80800000000000000
+      internalID: -8249998638340830170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_138
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 525
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c617b92ceb2950b70800000000000000
+      internalID: 8864652789555097964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 522
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d740b6d52730f0800000000000000
+      internalID: -1137398776877034933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_140
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 520
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258364e9c902c7e60800000000000000
+      internalID: 7961274098326583378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_141
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 512
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d60ab5fc1630a0800000000000000
+      internalID: -6902297537185132352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_142
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 514
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c144b2bb261e910800000000000000
+      internalID: 1864880276732386427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_143
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 522
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c5afbd3ad0eba00800000000000000
+      internalID: 774071183375752303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_144
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 510
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda426fcd0e7bbed0800000000000000
+      internalID: -2397183778865657122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_145
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 515
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fae1112924a2bd0800000000000000
+      internalID: -2654235835261603984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_146
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 502
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd02d71208b3e80800000000000000
+      internalID: -8197817815376274437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_147
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 496
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef046ff04c697a0800000000000000
+      internalID: -6370689050033979761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_148
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 498
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1d6687752ba6a10800000000000000
+      internalID: 1903529881269359084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_149
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 498
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73faa44ebbf5dd2c0800000000000000
+      internalID: -4405259599904854217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_150
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 502
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b5f8e5bdeda28c0800000000000000
+      internalID: -4023158283336459408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_151
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 222
+        width: 176
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5934e0e22ccec20800000000000000
+      internalID: 3237175735236138489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_152
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 469
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b24a9db4ca0a70800000000000000
+      internalID: 8794057541010240988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_153
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 476
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76bcea9fef1ed380800000000000000
+      internalID: -8944676695954377091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_154
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 472
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e595cdfbe6bf80670800000000000000
+      internalID: 8505324349373045086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_155
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 469
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6571b7d8327f63d0800000000000000
+      internalID: -3211222420829407891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_156
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 476
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c5c7f5df62b560800000000000000
+      internalID: 7328042508460867840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_157
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 453
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7839db72579c90800000000000000
+      internalID: -7163165990430671822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_158
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 438
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1143de76371b46410800000000000000
+      internalID: 1469494487652578321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_159
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 226
+        width: 152
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd506884a1c084a0800000000000000
+      internalID: -6593056942063591985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_160
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 412
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3cf5efdb7c21210800000000000000
+      internalID: 1302322861093929895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_161
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 431
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3116ddd7e12e90800000000000000
+      internalID: -7052100601520242880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_162
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7570f915b359c41e0800000000000000
+      internalID: -2212229234940770473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_163
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 390
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae8f6ced442b65b0800000000000000
+      internalID: -5374161813238739281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_164
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81285ffd2fdfe9c0800000000000000
+      internalID: -3895649764001701493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_165
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 398
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0fed9373e28db70800000000000000
+      internalID: 8923933476363628767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_166
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 349
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37673e11ddf6c84b0800000000000000
+      internalID: -5436847654864456077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_167
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 91
+        width: 212
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431045641c6275ba0800000000000000
+      internalID: -6100364558699593420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_168
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 291
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d06e4c533acd7680800000000000000
+      internalID: -8755619778597592875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_169
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568332fa9e96cb640800000000000000
+      internalID: 5097065330663176293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_170
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 224
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c624b93e43c4f840800000000000000
+      internalID: 5257041405791184578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_171
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 158
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c0ad46a756e170800000000000000
+      internalID: 8207343742707876787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_172
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 185
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0cd9c43549ac30800000000000000
+      internalID: 4371101006367035153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_173
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24ba8afde1af6e20800000000000000
+      internalID: 3346071091642283050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_174
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 158
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f105b9a863879fc0800000000000000
+      internalID: -3488174900828110346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_175
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c2f3f605704cf0800000000000000
+      internalID: -270087304919203811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_176
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab2710c653027640800000000000000
+      internalID: 5076123401124785065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_177
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 79
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaf51166c8db3d50800000000000000
+      internalID: 6718201615697181388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_178
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 91
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0930f36af91f660b0800000000000000
+      internalID: -5735631407418506352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_179
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4067ea75b59273360800000000000000
+      internalID: 7149228405763765764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_180
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 83
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c168370cbd5ba10800000000000000
+      internalID: 1924686035389127797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_181
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 91
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd2e3c6f86a1a60800000000000000
+      internalID: 7645538726472506184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_182
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5dc8452bde254b0800000000000000
+      internalID: -5453034848613771789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_183
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 35
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec5d5e82c43d0c90800000000000000
+      internalID: -7202042218878771992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_184
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785a849f353f5da50800000000000000
+      internalID: 6545405175443006855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_185
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 62
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee1907afaa38fd0800000000000000
+      internalID: -2340839388695367953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_186
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 67
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ee8f8aaf2e4390800000000000000
+      internalID: -7832270292351260887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_187
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c2f4626dc16e00800000000000000
+      internalID: 1036335211756045216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_188
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d303f03f571e20d30800000000000000
+      internalID: 4396324082972307517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_189
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a424d88fbd6001e60800000000000000
+      internalID: 7930846485637055050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_190
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65df3aa5d75b03200800000000000000
+      internalID: 157825536954203478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_191
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc6020ea70592130800000000000000
+      internalID: 3542451070580059358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_192
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058da54661545840800000000000000
+      internalID: 5211880168472020236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_193
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44596ff5a085cd0b0800000000000000
+      internalID: -5702586226574977724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesh_Candle_M_Candle Base_Metalic_194
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068ecc094dc16b660800000000000000
+      internalID: 7401134736917981280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mesh_Candle_M_Candle Base_Metalic_0: 27502113194628047
+      Mesh_Candle_M_Candle Base_Metalic_1: -640582117233087879
+      Mesh_Candle_M_Candle Base_Metalic_10: -6383315960308995605
+      Mesh_Candle_M_Candle Base_Metalic_100: -8683802255706540042
+      Mesh_Candle_M_Candle Base_Metalic_101: -7826694723343625239
+      Mesh_Candle_M_Candle Base_Metalic_102: -5298059912076494180
+      Mesh_Candle_M_Candle Base_Metalic_103: 5262687729489928104
+      Mesh_Candle_M_Candle Base_Metalic_104: -4634929176167539845
+      Mesh_Candle_M_Candle Base_Metalic_105: -1994571844828545401
+      Mesh_Candle_M_Candle Base_Metalic_106: -8784298675612213177
+      Mesh_Candle_M_Candle Base_Metalic_107: 971459543656085302
+      Mesh_Candle_M_Candle Base_Metalic_108: -4278704699727918970
+      Mesh_Candle_M_Candle Base_Metalic_109: 2795380575499521362
+      Mesh_Candle_M_Candle Base_Metalic_11: -5314050323081888112
+      Mesh_Candle_M_Candle Base_Metalic_110: -4236411283247439952
+      Mesh_Candle_M_Candle Base_Metalic_111: -159527059208611972
+      Mesh_Candle_M_Candle Base_Metalic_112: -4494255306281090052
+      Mesh_Candle_M_Candle Base_Metalic_113: 723467523659647059
+      Mesh_Candle_M_Candle Base_Metalic_114: 4882671399450653693
+      Mesh_Candle_M_Candle Base_Metalic_115: -2868211535549928380
+      Mesh_Candle_M_Candle Base_Metalic_116: -5599425072568163484
+      Mesh_Candle_M_Candle Base_Metalic_117: 3397453630178446034
+      Mesh_Candle_M_Candle Base_Metalic_118: -6591984883358644426
+      Mesh_Candle_M_Candle Base_Metalic_119: -563148425074138422
+      Mesh_Candle_M_Candle Base_Metalic_12: -9216332303106050281
+      Mesh_Candle_M_Candle Base_Metalic_120: 7231229559536854574
+      Mesh_Candle_M_Candle Base_Metalic_121: 2137169805479993852
+      Mesh_Candle_M_Candle Base_Metalic_122: -7101096559152216636
+      Mesh_Candle_M_Candle Base_Metalic_123: 2052370018835340279
+      Mesh_Candle_M_Candle Base_Metalic_124: 2001031565552079792
+      Mesh_Candle_M_Candle Base_Metalic_125: 4834968703983124193
+      Mesh_Candle_M_Candle Base_Metalic_126: -362080841433901615
+      Mesh_Candle_M_Candle Base_Metalic_127: -4823783528443280589
+      Mesh_Candle_M_Candle Base_Metalic_128: 8709131878424146558
+      Mesh_Candle_M_Candle Base_Metalic_129: 2758802239207567875
+      Mesh_Candle_M_Candle Base_Metalic_13: 5630537601994253800
+      Mesh_Candle_M_Candle Base_Metalic_130: -7573617889642813865
+      Mesh_Candle_M_Candle Base_Metalic_131: 3943116770470123416
+      Mesh_Candle_M_Candle Base_Metalic_132: -8475476353330390059
+      Mesh_Candle_M_Candle Base_Metalic_133: -5334219698107127869
+      Mesh_Candle_M_Candle Base_Metalic_134: 5145888090055074197
+      Mesh_Candle_M_Candle Base_Metalic_135: -8758509361620108718
+      Mesh_Candle_M_Candle Base_Metalic_136: -621500149970100805
+      Mesh_Candle_M_Candle Base_Metalic_137: -8249998638340830170
+      Mesh_Candle_M_Candle Base_Metalic_138: 8864652789555097964
+      Mesh_Candle_M_Candle Base_Metalic_139: -1137398776877034933
+      Mesh_Candle_M_Candle Base_Metalic_14: 3083533165654667015
+      Mesh_Candle_M_Candle Base_Metalic_140: 7961274098326583378
+      Mesh_Candle_M_Candle Base_Metalic_141: -6902297537185132352
+      Mesh_Candle_M_Candle Base_Metalic_142: 1864880276732386427
+      Mesh_Candle_M_Candle Base_Metalic_143: 774071183375752303
+      Mesh_Candle_M_Candle Base_Metalic_144: -2397183778865657122
+      Mesh_Candle_M_Candle Base_Metalic_145: -2654235835261603984
+      Mesh_Candle_M_Candle Base_Metalic_146: -8197817815376274437
+      Mesh_Candle_M_Candle Base_Metalic_147: -6370689050033979761
+      Mesh_Candle_M_Candle Base_Metalic_148: 1903529881269359084
+      Mesh_Candle_M_Candle Base_Metalic_149: -4405259599904854217
+      Mesh_Candle_M_Candle Base_Metalic_15: -8177582857999938854
+      Mesh_Candle_M_Candle Base_Metalic_150: -4023158283336459408
+      Mesh_Candle_M_Candle Base_Metalic_151: 3237175735236138489
+      Mesh_Candle_M_Candle Base_Metalic_152: 8794057541010240988
+      Mesh_Candle_M_Candle Base_Metalic_153: -8944676695954377091
+      Mesh_Candle_M_Candle Base_Metalic_154: 8505324349373045086
+      Mesh_Candle_M_Candle Base_Metalic_155: -3211222420829407891
+      Mesh_Candle_M_Candle Base_Metalic_156: 7328042508460867840
+      Mesh_Candle_M_Candle Base_Metalic_157: -7163165990430671822
+      Mesh_Candle_M_Candle Base_Metalic_158: 1469494487652578321
+      Mesh_Candle_M_Candle Base_Metalic_159: -6593056942063591985
+      Mesh_Candle_M_Candle Base_Metalic_16: -7810575252858943515
+      Mesh_Candle_M_Candle Base_Metalic_160: 1302322861093929895
+      Mesh_Candle_M_Candle Base_Metalic_161: -7052100601520242880
+      Mesh_Candle_M_Candle Base_Metalic_162: -2212229234940770473
+      Mesh_Candle_M_Candle Base_Metalic_163: -5374161813238739281
+      Mesh_Candle_M_Candle Base_Metalic_164: -3895649764001701493
+      Mesh_Candle_M_Candle Base_Metalic_165: 8923933476363628767
+      Mesh_Candle_M_Candle Base_Metalic_166: -5436847654864456077
+      Mesh_Candle_M_Candle Base_Metalic_167: -6100364558699593420
+      Mesh_Candle_M_Candle Base_Metalic_168: -8755619778597592875
+      Mesh_Candle_M_Candle Base_Metalic_169: 5097065330663176293
+      Mesh_Candle_M_Candle Base_Metalic_17: 7812406646308060736
+      Mesh_Candle_M_Candle Base_Metalic_170: 5257041405791184578
+      Mesh_Candle_M_Candle Base_Metalic_171: 8207343742707876787
+      Mesh_Candle_M_Candle Base_Metalic_172: 4371101006367035153
+      Mesh_Candle_M_Candle Base_Metalic_173: 3346071091642283050
+      Mesh_Candle_M_Candle Base_Metalic_174: -3488174900828110346
+      Mesh_Candle_M_Candle Base_Metalic_175: -270087304919203811
+      Mesh_Candle_M_Candle Base_Metalic_176: 5076123401124785065
+      Mesh_Candle_M_Candle Base_Metalic_177: 6718201615697181388
+      Mesh_Candle_M_Candle Base_Metalic_178: -5735631407418506352
+      Mesh_Candle_M_Candle Base_Metalic_179: 7149228405763765764
+      Mesh_Candle_M_Candle Base_Metalic_18: -9010477399801391811
+      Mesh_Candle_M_Candle Base_Metalic_180: 1924686035389127797
+      Mesh_Candle_M_Candle Base_Metalic_181: 7645538726472506184
+      Mesh_Candle_M_Candle Base_Metalic_182: -5453034848613771789
+      Mesh_Candle_M_Candle Base_Metalic_183: -7202042218878771992
+      Mesh_Candle_M_Candle Base_Metalic_184: 6545405175443006855
+      Mesh_Candle_M_Candle Base_Metalic_185: -2340839388695367953
+      Mesh_Candle_M_Candle Base_Metalic_186: -7832270292351260887
+      Mesh_Candle_M_Candle Base_Metalic_187: 1036335211756045216
+      Mesh_Candle_M_Candle Base_Metalic_188: 4396324082972307517
+      Mesh_Candle_M_Candle Base_Metalic_189: 7930846485637055050
+      Mesh_Candle_M_Candle Base_Metalic_19: -6470339237646555725
+      Mesh_Candle_M_Candle Base_Metalic_190: 157825536954203478
+      Mesh_Candle_M_Candle Base_Metalic_191: 3542451070580059358
+      Mesh_Candle_M_Candle Base_Metalic_192: 5211880168472020236
+      Mesh_Candle_M_Candle Base_Metalic_193: -5702586226574977724
+      Mesh_Candle_M_Candle Base_Metalic_194: 7401134736917981280
+      Mesh_Candle_M_Candle Base_Metalic_2: -277462664278599300
+      Mesh_Candle_M_Candle Base_Metalic_20: -8626639624817699632
+      Mesh_Candle_M_Candle Base_Metalic_21: -5209369920430031081
+      Mesh_Candle_M_Candle Base_Metalic_22: 5995784491166173399
+      Mesh_Candle_M_Candle Base_Metalic_23: 1375868161611451559
+      Mesh_Candle_M_Candle Base_Metalic_24: 3432513107412978044
+      Mesh_Candle_M_Candle Base_Metalic_25: -730861665930608993
+      Mesh_Candle_M_Candle Base_Metalic_26: -2662636132148272513
+      Mesh_Candle_M_Candle Base_Metalic_27: 1356888418039598989
+      Mesh_Candle_M_Candle Base_Metalic_28: -4077330552923701317
+      Mesh_Candle_M_Candle Base_Metalic_29: 4259129311033078418
+      Mesh_Candle_M_Candle Base_Metalic_3: 453961541165359487
+      Mesh_Candle_M_Candle Base_Metalic_30: -2372650834244757345
+      Mesh_Candle_M_Candle Base_Metalic_31: -7632672442586638415
+      Mesh_Candle_M_Candle Base_Metalic_32: 4349113359120664979
+      Mesh_Candle_M_Candle Base_Metalic_33: 6585256796058040384
+      Mesh_Candle_M_Candle Base_Metalic_34: -1566688857730591239
+      Mesh_Candle_M_Candle Base_Metalic_35: 3775029987250510255
+      Mesh_Candle_M_Candle Base_Metalic_36: -7108383171975195202
+      Mesh_Candle_M_Candle Base_Metalic_37: -8610736678112100978
+      Mesh_Candle_M_Candle Base_Metalic_38: -5712438991676634951
+      Mesh_Candle_M_Candle Base_Metalic_39: -1974601867932617994
+      Mesh_Candle_M_Candle Base_Metalic_4: -2684822131881386828
+      Mesh_Candle_M_Candle Base_Metalic_40: -2293219028241436322
+      Mesh_Candle_M_Candle Base_Metalic_41: -1566336427659880575
+      Mesh_Candle_M_Candle Base_Metalic_42: 166276758369609200
+      Mesh_Candle_M_Candle Base_Metalic_43: -1801667833284123158
+      Mesh_Candle_M_Candle Base_Metalic_44: 8358005107609789209
+      Mesh_Candle_M_Candle Base_Metalic_45: -6395236965521290647
+      Mesh_Candle_M_Candle Base_Metalic_46: -7830093942172663683
+      Mesh_Candle_M_Candle Base_Metalic_47: -1217390009973621502
+      Mesh_Candle_M_Candle Base_Metalic_48: -856462195664628426
+      Mesh_Candle_M_Candle Base_Metalic_49: -2906713477960666430
+      Mesh_Candle_M_Candle Base_Metalic_5: -5581752497697624087
+      Mesh_Candle_M_Candle Base_Metalic_50: 2267285833154688564
+      Mesh_Candle_M_Candle Base_Metalic_51: 5453676535821358823
+      Mesh_Candle_M_Candle Base_Metalic_52: -7001515681095017063
+      Mesh_Candle_M_Candle Base_Metalic_53: -6084791959308656522
+      Mesh_Candle_M_Candle Base_Metalic_54: -5554291094498644416
+      Mesh_Candle_M_Candle Base_Metalic_55: 4030858701717364462
+      Mesh_Candle_M_Candle Base_Metalic_56: 4576663213724485342
+      Mesh_Candle_M_Candle Base_Metalic_57: 7985035482923800608
+      Mesh_Candle_M_Candle Base_Metalic_58: 1808145300186740482
+      Mesh_Candle_M_Candle Base_Metalic_59: 7846073934604429786
+      Mesh_Candle_M_Candle Base_Metalic_6: 2915853995218568417
+      Mesh_Candle_M_Candle Base_Metalic_60: 7715342369784730036
+      Mesh_Candle_M_Candle Base_Metalic_61: -4051638658308503519
+      Mesh_Candle_M_Candle Base_Metalic_62: 5982919882159121508
+      Mesh_Candle_M_Candle Base_Metalic_63: 878695688987276886
+      Mesh_Candle_M_Candle Base_Metalic_64: 5030687025678929969
+      Mesh_Candle_M_Candle Base_Metalic_65: 2237582414953771895
+      Mesh_Candle_M_Candle Base_Metalic_66: -4874128142649246134
+      Mesh_Candle_M_Candle Base_Metalic_67: 9076226564800361196
+      Mesh_Candle_M_Candle Base_Metalic_68: -3758003093466076822
+      Mesh_Candle_M_Candle Base_Metalic_69: -2683602548469555817
+      Mesh_Candle_M_Candle Base_Metalic_7: -5291751266983736832
+      Mesh_Candle_M_Candle Base_Metalic_70: -114893065151728848
+      Mesh_Candle_M_Candle Base_Metalic_71: -1256455614292054497
+      Mesh_Candle_M_Candle Base_Metalic_72: 8918313190070277453
+      Mesh_Candle_M_Candle Base_Metalic_73: -3413926492539237768
+      Mesh_Candle_M_Candle Base_Metalic_74: -2695263556863504092
+      Mesh_Candle_M_Candle Base_Metalic_75: 1739833941007287185
+      Mesh_Candle_M_Candle Base_Metalic_76: 959899315996451159
+      Mesh_Candle_M_Candle Base_Metalic_77: -7178916848523477416
+      Mesh_Candle_M_Candle Base_Metalic_78: 6823121345762493385
+      Mesh_Candle_M_Candle Base_Metalic_79: -5182079343627235328
+      Mesh_Candle_M_Candle Base_Metalic_8: 5797027172149305135
+      Mesh_Candle_M_Candle Base_Metalic_80: 3721427547453801624
+      Mesh_Candle_M_Candle Base_Metalic_81: -8533303230413636369
+      Mesh_Candle_M_Candle Base_Metalic_82: -2920184815792484080
+      Mesh_Candle_M_Candle Base_Metalic_83: -1589852923020135195
+      Mesh_Candle_M_Candle Base_Metalic_84: 6923946349903568005
+      Mesh_Candle_M_Candle Base_Metalic_85: -6651454310106450610
+      Mesh_Candle_M_Candle Base_Metalic_86: 4299857246351257124
+      Mesh_Candle_M_Candle Base_Metalic_87: 2839405148217074993
+      Mesh_Candle_M_Candle Base_Metalic_88: 7826006111842111350
+      Mesh_Candle_M_Candle Base_Metalic_89: 3243496884540625869
+      Mesh_Candle_M_Candle Base_Metalic_9: 1774393419977673149
+      Mesh_Candle_M_Candle Base_Metalic_90: -3287572584446685632
+      Mesh_Candle_M_Candle Base_Metalic_91: 3862762947859188788
+      Mesh_Candle_M_Candle Base_Metalic_92: -159645516875609043
+      Mesh_Candle_M_Candle Base_Metalic_93: -1427821288530537374
+      Mesh_Candle_M_Candle Base_Metalic_94: -6213990671766348525
+      Mesh_Candle_M_Candle Base_Metalic_95: 1030789106964252223
+      Mesh_Candle_M_Candle Base_Metalic_96: -8601627314920127957
+      Mesh_Candle_M_Candle Base_Metalic_97: -8117332103054118710
+      Mesh_Candle_M_Candle Base_Metalic_98: -9202265764610455185
+      Mesh_Candle_M_Candle Base_Metalic_99: -2889748925800042775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

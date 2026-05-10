@@ -44,5 +44,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background Wall
+    uniqueID: 2836580819
+    locked: 0
+  - name: Scales
+    uniqueID: 1864046197
+    locked: 0
+  - name: Board
+    uniqueID: 3704807115
+    locked: 0
+  - name: Stars
+    uniqueID: 97693089
+    locked: 0
   m_RenderingLayers:
   - Default
