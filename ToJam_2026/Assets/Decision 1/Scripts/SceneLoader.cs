@@ -27,7 +27,10 @@ public class SceneLoader : MonoBehaviour
         if (Input.GetKey(KeyCode.Space) && !controlsEnabled)
         {
             Debug.Log("Transition to the next scene");
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            SceneManager.LoadScene(Random.Range(0,2));
+            
+            controlsEnabled = true;
         }
     }
 
