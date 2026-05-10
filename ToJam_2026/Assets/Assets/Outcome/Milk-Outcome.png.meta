@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 355be70236236a04582a79b3f0ecdab5
+guid: f38d7402bc402954b9ca62c12484b4d1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7491246706069510002
-    second: Ketchup-Outcome_0
+      213: 1326293473237165895
+    second: Milk-Outcome_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ketchup-Outcome_0
+      name: Milk-Outcome_0
       rect:
         serializedVersion: 2
-        x: 114
-        y: 166
-        width: 899
-        height: 844
+        x: 147
+        y: 167
+        width: 776
+        height: 773
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8869e7afceb90890800000000000000
-      internalID: -7491246706069510002
+      spriteID: 747683c03e0f76210800000000000000
+      internalID: 1326293473237165895
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ketchup-Outcome_0: -7491246706069510002
+      Milk-Outcome_0: 1326293473237165895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

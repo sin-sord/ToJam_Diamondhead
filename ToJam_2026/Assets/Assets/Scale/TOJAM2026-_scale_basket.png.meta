@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 355be70236236a04582a79b3f0ecdab5
+guid: e68cf09b3f1468d499096ee2de21f1e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7491246706069510002
-    second: Ketchup-Outcome_0
+      213: -1365030835138251961
+    second: TOJAM2026-_scale_basket_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -96,17 +96,43 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ketchup-Outcome_0
+      name: TOJAM2026-_scale_basket_0
       rect:
         serializedVersion: 2
-        x: 114
-        y: 166
-        width: 899
-        height: 844
+        x: 0
+        y: 2
+        width: 232
+        height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8869e7afceb90890800000000000000
-      internalID: -7491246706069510002
+      spriteID: 743312c00bf6e0de0800000000000000
+      internalID: -1365030835138251961
       vertices: []
       indices: 
       edges: []
@@ -125,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ketchup-Outcome_0: -7491246706069510002
+      TOJAM2026-_scale_basket_0: -1365030835138251961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
