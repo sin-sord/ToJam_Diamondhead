@@ -7,8 +7,8 @@ public class SceneLoader : MonoBehaviour
     public SpriteRenderer completionScreenAIcon;
     public SpriteRenderer completionScreenBIcon;
 
-    public SpriteRenderer completionTextA;
-    public SpriteRenderer completionTextB;
+    //public MeshRenderer completionTextA;
+    //public MeshRenderer completionTextB;
 
     public SpriteRenderer PressSpace;
     [SerializeField]
@@ -28,7 +28,7 @@ public class SceneLoader : MonoBehaviour
         {
             Debug.Log("Transition to the next scene");
             //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-            SceneManager.LoadScene(Random.Range(0,2));
+            SceneManager.LoadScene(Random.Range(2,12));
             
             controlsEnabled = true;
         }
@@ -41,7 +41,7 @@ public class SceneLoader : MonoBehaviour
         if (other.tag == "ScaleBaseA")
         {
             completionScreenAIcon.enabled = true;
-            completionTextA.enabled = true;
+            //completionTextA.enabled = true;
             PressSpace.enabled = true;
 
             Debug.Log("Scale Option A was Selected");
@@ -51,7 +51,7 @@ public class SceneLoader : MonoBehaviour
         if (other.tag == "ScaleBaseB")
         {
             completionScreenBIcon.enabled = true;
-            completionTextB.enabled = true;
+            //completionTextB.enabled = true;
             PressSpace.enabled = true;
 
 
