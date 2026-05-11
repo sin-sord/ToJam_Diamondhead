@@ -26,13 +26,13 @@ public class RotateScaleCentre : MonoBehaviour
             if (Input.GetKey(KeyCode.A))
             {
                 Debug.Log("is rotating left");
-                transform.Rotate(0, 0, 0.05f);
+                transform.Rotate(0, 0, 0.25f);
             }
 
             if (Input.GetKey(KeyCode.D))
             {
                 Debug.Log("is rotating right");
-                transform.Rotate(0, 0, -0.05f);
+                transform.Rotate(0, 0, -0.25f);
             }
         }
 

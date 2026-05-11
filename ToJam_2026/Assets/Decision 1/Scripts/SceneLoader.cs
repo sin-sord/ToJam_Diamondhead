@@ -7,6 +7,14 @@ public class SceneLoader : MonoBehaviour
     public SpriteRenderer completionScreenAIcon;
     public SpriteRenderer completionScreenBIcon;
 
+    public GameObject textBoard_ResultA;
+    public GameObject textBoard_ResultB;
+    public GameObject textBoard_Choose;
+    public GameObject lights;
+    public GameObject textBoard_Model;
+
+
+
     //public MeshRenderer completionTextA;
     //public MeshRenderer completionTextB;
 
@@ -28,7 +36,7 @@ public class SceneLoader : MonoBehaviour
         {
             Debug.Log("Transition to the next scene");
             //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-            SceneManager.LoadScene(Random.Range(2,11));
+            SceneManager.LoadScene(Random.Range(2,12));
             
             controlsEnabled = true;
         }
@@ -38,11 +46,16 @@ public class SceneLoader : MonoBehaviour
     {
         controlsEnabled =false;
 
+        textBoard_Choose.SetActive(false);
+        textBoard_Model.SetActive(true);
+        lights.SetActive(true);
+
         if (other.tag == "ScaleBaseA")
         {
-            completionScreenAIcon.enabled = true;
+            completionScreenAIcon.enabled = true;   
             //completionTextA.enabled = true;
             PressSpace.enabled = true;
+            textBoard_ResultA.SetActive(true);
 
             Debug.Log("Scale Option A was Selected");
 
@@ -53,7 +66,7 @@ public class SceneLoader : MonoBehaviour
             completionScreenBIcon.enabled = true;
             //completionTextB.enabled = true;
             PressSpace.enabled = true;
-
+            textBoard_ResultB.SetActive(true);
 
             Debug.Log("Scale Option B was Selected");
                 
