@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2903523549ea3004fb1ca828043996ea
+guid: dc373a1ef027bed4399b577bf6344621
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: orange-outcome_0
       rect:
         serializedVersion: 2
-        x: 69
-        y: 257
-        width: 846
-        height: 661
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

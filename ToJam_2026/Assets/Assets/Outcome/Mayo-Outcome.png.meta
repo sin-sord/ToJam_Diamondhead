@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 021eeb6438171794aa52d740045a8ba7
+guid: 5f378482e5893cc4e9bd44734dbe7ec0
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: Mayo-Outcome_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 93
-        width: 1020
-        height: 734
+        x: 0
+        y: 0
+        width: 1081
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

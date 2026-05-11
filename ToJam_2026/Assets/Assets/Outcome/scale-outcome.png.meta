@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 08620c060f48e6a48b2546ef9770ead4
+guid: 4c649b853b3c46f40a16ed805307805a
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 1263582902515529041
     second: scale-outcome_0
-  - first:
-      213: 5676079937115327932
-    second: scale-outcome_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,10 +103,10 @@ TextureImporter:
       name: scale-outcome_0
       rect:
         serializedVersion: 2
-        x: 170
-        y: 262
-        width: 471
-        height: 500
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,28 +117,6 @@ TextureImporter:
       bones: []
       spriteID: 155f1b084f5298110800000000000000
       internalID: 1263582902515529041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: scale-outcome_1
-      rect:
-        serializedVersion: 2
-        x: 662
-        y: 328
-        width: 235
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cbd0b7031ac75ce40800000000000000
-      internalID: 5676079937115327932
       vertices: []
       indices: 
       edges: []
@@ -161,7 +136,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       scale-outcome_0: 1263582902515529041
-      scale-outcome_1: 5676079937115327932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

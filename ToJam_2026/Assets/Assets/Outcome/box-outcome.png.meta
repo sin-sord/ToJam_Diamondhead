@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 44ec91551533b8e48a9d3f5f614acec2
+guid: d1fab968940e2be46b2637568f399dea
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: box-outcome_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 305
-        width: 975
-        height: 628
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

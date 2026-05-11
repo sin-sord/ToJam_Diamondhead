@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3864a4d101ab63b4099963db114a1c2e
+guid: 6705225f9d9873942b03bf46459554ee
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: cut-outcome_0
       rect:
         serializedVersion: 2
-        x: 271
-        y: 67
-        width: 538
-        height: 885
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

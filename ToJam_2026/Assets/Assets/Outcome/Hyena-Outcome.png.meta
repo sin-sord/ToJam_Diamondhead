@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 1e4b780719eaceb419d6cadd8d4140a5
+guid: 8b06ef11b62befc49b0a6c48341f4cbd
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 2274680648561736005
     second: Hyena-Outcome_0
-  - first:
-      213: 5874027986788283151
-    second: Hyena-Outcome_1
-  - first:
-      213: -1196541904897146686
-    second: Hyena-Outcome_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,10 +103,10 @@ TextureImporter:
       name: Hyena-Outcome_0
       rect:
         serializedVersion: 2
-        x: 95
-        y: 269
-        width: 127
-        height: 229
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -123,50 +117,6 @@ TextureImporter:
       bones: []
       spriteID: 5493af28ff9419f10800000000000000
       internalID: 2274680648561736005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hyena-Outcome_1
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 265
-        width: 473
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f03f731055db48150800000000000000
-      internalID: 5874027986788283151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hyena-Outcome_2
-      rect:
-        serializedVersion: 2
-        x: 728
-        y: 265
-        width: 347
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c08cbf1a77056fe0800000000000000
-      internalID: -1196541904897146686
       vertices: []
       indices: 
       edges: []
@@ -186,8 +136,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Hyena-Outcome_0: 2274680648561736005
-      Hyena-Outcome_1: 5874027986788283151
-      Hyena-Outcome_2: -1196541904897146686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 907fe3c82a7e1534a8cb2b5dd99df9b4
+guid: 2da3e2e3d04187a4ebc393b2a32f25dc
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: rotate-outcome_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 175
-        width: 1047
-        height: 847
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

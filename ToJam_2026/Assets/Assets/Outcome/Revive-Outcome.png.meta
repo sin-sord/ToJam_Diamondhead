@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 81905ed8334f0ba4f9c6a86101e041e0
+guid: 1d012df33aa2bbb4caa419beabaef394
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -4478362606197139423
     second: Revive-Outcome_0
-  - first:
-      213: 7647067257881380787
-    second: Revive-Outcome_1
-  - first:
-      213: 5012619757534160725
-    second: Revive-Outcome_2
-  - first:
-      213: -2252729447234778219
-    second: Revive-Outcome_3
-  - first:
-      213: 4478670791505342299
-    second: Revive-Outcome_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,10 +103,10 @@ TextureImporter:
       name: Revive-Outcome_0
       rect:
         serializedVersion: 2
-        x: 269
-        y: 566
-        width: 244
-        height: 201
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,94 +117,6 @@ TextureImporter:
       bones: []
       spriteID: 1281a32efe8a9d1c0800000000000000
       internalID: -4478362606197139423
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Revive-Outcome_1
-      rect:
-        serializedVersion: 2
-        x: 286
-        y: 218
-        width: 519
-        height: 380
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b74a87b727df1a60800000000000000
-      internalID: 7647067257881380787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Revive-Outcome_2
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 552
-        width: 206
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 557ade98c17609540800000000000000
-      internalID: 5012619757534160725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Revive-Outcome_3
-      rect:
-        serializedVersion: 2
-        x: 742
-        y: 377
-        width: 184
-        height: 189
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 59b4282d082bcb0e0800000000000000
-      internalID: -2252729447234778219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Revive-Outcome_4
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 308
-        width: 179
-        height: 208
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5fe7991b5f672e30800000000000000
-      internalID: 4478670791505342299
       vertices: []
       indices: 
       edges: []
@@ -236,10 +136,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Revive-Outcome_0: -4478362606197139423
-      Revive-Outcome_1: 7647067257881380787
-      Revive-Outcome_2: 5012619757534160725
-      Revive-Outcome_3: -2252729447234778219
-      Revive-Outcome_4: 4478670791505342299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

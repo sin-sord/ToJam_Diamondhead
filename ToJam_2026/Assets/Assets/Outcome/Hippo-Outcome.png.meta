@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7e1c052a4ac183a47be1a26f8d949b7f
+guid: ec18213396469e24f827b1043dad7e56
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: Hippo-Outcome_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 259
-        width: 985
-        height: 552
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

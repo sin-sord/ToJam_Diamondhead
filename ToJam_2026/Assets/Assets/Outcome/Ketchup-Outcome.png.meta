@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 355be70236236a04582a79b3f0ecdab5
+guid: 9fb8f075e86e002419efbcd0ae50ca27
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: Ketchup-Outcome_0
       rect:
         serializedVersion: 2
-        x: 114
-        y: 166
-        width: 899
-        height: 844
+        x: 0
+        y: 0
+        width: 1081
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
