@@ -15,6 +15,10 @@ public class SceneLoader : MonoBehaviour
     public bool controlsEnabled;
 
 
+    public SpriteRenderer outcomeA;
+    public SpriteRenderer outcomeB;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -43,6 +47,7 @@ public class SceneLoader : MonoBehaviour
             completionScreenAIcon.enabled = true;
             //completionTextA.enabled = true;
             PressSpace.enabled = true;
+            outcomeA.enabled = true;
 
             Debug.Log("Scale Option A was Selected");
 
@@ -53,6 +58,7 @@ public class SceneLoader : MonoBehaviour
             completionScreenBIcon.enabled = true;
             //completionTextB.enabled = true;
             PressSpace.enabled = true;
+            outcomeB.enabled = true;
 
 
             Debug.Log("Scale Option B was Selected");
