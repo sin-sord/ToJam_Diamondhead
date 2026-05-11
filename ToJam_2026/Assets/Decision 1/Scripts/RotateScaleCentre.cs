@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering;
 
 public class RotateScaleCentre : MonoBehaviour
 {
@@ -15,6 +16,12 @@ public class RotateScaleCentre : MonoBehaviour
     void Update()
     {
         rotateScaleLR();
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            closeGame();
+        }
+        
     }
 
     void rotateScaleLR()
@@ -35,6 +42,14 @@ public class RotateScaleCentre : MonoBehaviour
                 transform.Rotate(0, 0, -0.25f);
             }
         }
+
+    }
+
+
+    void closeGame() 
+    {
+        Debug.Log("close Game");
+        Application.Quit();
 
     }
 
