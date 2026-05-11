@@ -28,7 +28,7 @@ public class SceneLoader : MonoBehaviour
         {
             Debug.Log("Transition to the next scene");
             //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-            SceneManager.LoadScene(Random.Range(2,12));
+            SceneManager.LoadScene(Random.Range(2,11));
             
             controlsEnabled = true;
         }
