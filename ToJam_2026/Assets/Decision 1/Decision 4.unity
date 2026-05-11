@@ -560,8 +560,8 @@ MonoBehaviour:
   completionScreenBIcon: {fileID: 1970146636}
   PressSpace: {fileID: 75412216}
   controlsEnabled: 0
-  outcomeA: {fileID: 0}
-  outcomeB: {fileID: 0}
+  outcomeA: {fileID: 1735655736}
+  outcomeB: {fileID: 1884674753}
 --- !u!1 &569055909
 GameObject:
   m_ObjectHideFlags: 0
@@ -1602,7 +1602,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 10
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 29e69974ce11fc746b54dba23d591f92, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 099a6bb0dfb636d488bf4e3f378d77b9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1725,7 +1725,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 10
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 29e69974ce11fc746b54dba23d591f92, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 001835d51b3ff5b468cf67ac4e533344, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

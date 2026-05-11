@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: feb51be2b4a92cf4a9e01716c4bbe299
+guid: fbad98f808a71534e999ab5a0cf27829
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2138821940214701139
-    second: Mayo_0
+      213: 716505280579113713
+    second: Mayo 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mayo_0
+      name: Mayo 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da3e0bff6c06152e0800000000000000
-      internalID: -2138821940214701139
+      spriteID: 1f21c98a1c981f900800000000000000
+      internalID: 716505280579113713
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mayo_0: -2138821940214701139
+      Mayo 1_0: 716505280579113713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
