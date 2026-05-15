@@ -639,7 +639,7 @@ RectTransform:
   - {fileID: 1430072965}
   - {fileID: 1531688933}
   - {fileID: 171988525}
-  m_Father: {fileID: 339004544}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -839,17 +839,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 200593722720399526, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 301556936}
+    m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
---- !u!4 &339004544 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 200593722720399526, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
-  m_PrefabInstance: {fileID: 339004543}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &367078816 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3915841097353965455, guid: 3e7bf475c2924114a8900d2db5dff15f, type: 3}
@@ -1665,10 +1657,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 301556936}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.7066667}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -89.600006}
-  m_SizeDelta: {x: 200, y: -126}
+  m_AnchorMin: {x: 0.40300003, y: 0.66333336}
+  m_AnchorMax: {x: 0.59400004, y: 0.74500006}
+  m_AnchoredPosition: {x: 0, y: -0.1000061}
+  m_SizeDelta: {x: 0, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1430072966
 MonoBehaviour:
@@ -1699,8 +1691,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278403391
-  m_fontColor: {r: 0.24705882, g: 0.25490198, b: 0.011764706, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3047,5 +3039,6 @@ SceneRoots:
   - {fileID: 1594739096}
   - {fileID: 2042637698}
   - {fileID: 1643804505}
+  - {fileID: 301556936}
   - {fileID: 257592269}
   - {fileID: 339004543}
