@@ -942,6 +942,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1003485916573266168, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1340918391138979122, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
       propertyPath: m_Intensity
       value: 1
@@ -949,6 +953,10 @@ PrefabInstance:
     - target: {fileID: 1505429806831138966, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
       propertyPath: m_Intensity
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1647186451122470132, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1675910923291807558, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
       propertyPath: m_Intensity
@@ -966,8 +974,20 @@ PrefabInstance:
       propertyPath: m_Intensity
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 4419801951994712998, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4863640987613717906, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4863640987613717906, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
       propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5005605032191717397, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5121468271343895867, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
@@ -1009,6 +1029,22 @@ PrefabInstance:
     - target: {fileID: 6391351403197815475, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
       propertyPath: m_Name
       value: Lights
+      objectReference: {fileID: 0}
+    - target: {fileID: 6391351403197815475, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6859823954803768733, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6988872326963270495, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7203824243065705648, guid: 1d0e950f5ffe294419969510b3e564a1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -1133,6 +1169,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 629293aa2dc322a498298a407a897fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayBUtton
+  creditsButton: {fileID: 0}
+  controlsButton: {fileID: 0}
 --- !u!4 &1274716881
 Transform:
   m_ObjectHideFlags: 0
@@ -1430,6 +1468,10 @@ PrefabInstance:
     - target: {fileID: 3035701256205184112, guid: b4334040593675745a058a090028627e, type: 3}
       propertyPath: m_Name
       value: Text Board Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035701256205184112, guid: b4334040593675745a058a090028627e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
