@@ -36,8 +36,13 @@ public class SceneLoader : MonoBehaviour
         {
             Debug.Log("Transition to the next scene");
             //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-            SceneManager.LoadScene(Random.Range(2,12));
-            
+            //SceneManager.LoadScene(Random.Range(2,12));
+
+        //  Makes it so that the game loads the next decisions instead of going to a random scene
+            int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+            int nextSceneIndex = currentSceneIndex + 1;
+            SceneManager.LoadScene(nextSceneIndex);
+
             controlsEnabled = true;
         }
     }
