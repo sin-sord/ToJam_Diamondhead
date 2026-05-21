@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'All hotdogs must be eaten with...
+  m_text: 'All cereal must be eaten with...
 
     Mayo?!'
   m_isRightToLeft: 0
